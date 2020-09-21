@@ -65,7 +65,7 @@ p {
     letter-spacing: 1px;
     font-size: 1em;
     line-height: 1.9em;
-    color: #777;
+    color: #7CFC00;
 }
 
 ul {
@@ -451,7 +451,8 @@ a.two.scroll {
 
 .banner_bottom_left h4 {
     font-size: 1.5em;
-    color: #3c3c3c;
+    font-weight: 400;
+    color: white;
     letter-spacing: 1px;
     position: relative;
     font-weight: 600;
@@ -577,7 +578,7 @@ p.sub_p {
     font-size: 1.2em;
     margin-bottom: .7em;
     font-weight: 600;
-    color: #222222;
+    color: #ffffff;
     letter-spacing: 1px;
 }
 
@@ -626,7 +627,7 @@ ul.short li a {
 /*-- //works--*/
 
 h3.tittle-w3ls {
-    color: #1b1b1b;
+    color: #ffffff;
     font-size: 3em;
     text-align: left;
     letter-spacing: 2px;
